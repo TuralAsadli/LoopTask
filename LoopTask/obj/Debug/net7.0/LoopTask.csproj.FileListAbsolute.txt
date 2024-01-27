@@ -1,0 +1,14 @@
+E:\Projects\LoopTask\LoopTask\bin\Debug\net7.0\LoopTask.exe
+E:\Projects\LoopTask\LoopTask\bin\Debug\net7.0\LoopTask.deps.json
+E:\Projects\LoopTask\LoopTask\bin\Debug\net7.0\LoopTask.runtimeconfig.json
+E:\Projects\LoopTask\LoopTask\bin\Debug\net7.0\LoopTask.dll
+E:\Projects\LoopTask\LoopTask\bin\Debug\net7.0\LoopTask.pdb
+E:\Projects\LoopTask\LoopTask\obj\Debug\net7.0\LoopTask.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\LoopTask\LoopTask\obj\Debug\net7.0\LoopTask.AssemblyInfoInputs.cache
+E:\Projects\LoopTask\LoopTask\obj\Debug\net7.0\LoopTask.AssemblyInfo.cs
+E:\Projects\LoopTask\LoopTask\obj\Debug\net7.0\LoopTask.csproj.CoreCompileInputs.cache
+E:\Projects\LoopTask\LoopTask\obj\Debug\net7.0\LoopTask.dll
+E:\Projects\LoopTask\LoopTask\obj\Debug\net7.0\refint\LoopTask.dll
+E:\Projects\LoopTask\LoopTask\obj\Debug\net7.0\LoopTask.pdb
+E:\Projects\LoopTask\LoopTask\obj\Debug\net7.0\LoopTask.genruntimeconfig.cache
+E:\Projects\LoopTask\LoopTask\obj\Debug\net7.0\ref\LoopTask.dll
